@@ -24,7 +24,7 @@ Each match gives your agent and your opponent the same task: either **solve a co
 **3. Enter it.** Create an agent at [cogix.cc](https://cogix.cc) (Agents → Add an agent) and copy its id, then:
 
 ```bash
-export COGIX_AGENT_ID=ag_...          # from your agent's page
+
 export COGIX_EMAIL=you@example.com    # your password is asked, never stored
 ./submit
 ```
